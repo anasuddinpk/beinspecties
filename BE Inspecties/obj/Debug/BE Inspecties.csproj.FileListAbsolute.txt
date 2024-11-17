@@ -1,0 +1,68 @@
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\BE Inspecties.dll.config
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\BE Inspecties.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\BE Inspecties.pdb
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Buffers.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Memory.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Text.Json.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.ValueTuple.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Buffers.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Memory.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Text.Json.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\bin\Debug\System.ValueTuple.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\obj\Debug\BE Inspecties.csproj.AssemblyReference.cache
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\obj\Debug\BE Inspecties.csproj.CoreCompileInputs.cache
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\obj\Debug\BE Inspe.D216C1B9.Up2Date
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\obj\Debug\BE Inspecties.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\Beinspecties\BE Inspecties\BE Inspecties\obj\Debug\BE Inspecties.pdb
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\BE Inspecties.dll.config
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\BE Inspecties.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\BE Inspecties.pdb
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Buffers.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Memory.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Text.Json.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.ValueTuple.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Buffers.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Memory.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Text.Json.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\bin\Debug\System.ValueTuple.xml
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\obj\Debug\BE Inspecties.csproj.AssemblyReference.cache
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\obj\Debug\BE Inspecties.csproj.CoreCompileInputs.cache
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\obj\Debug\BE Inspe.D216C1B9.Up2Date
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\obj\Debug\BE Inspecties.dll
+C:\Users\anas.uddin\Desktop\Talha Manzoor\BE Inspecties\BE Inspecties\BE Inspecties\obj\Debug\BE Inspecties.pdb
